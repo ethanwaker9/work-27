@@ -1,0 +1,26 @@
+[
+ {
+  "scheme": "ML-KEM-512",
+  "decaps_cca_us": 2462.2624836,
+  "decaps_cpa_us": 694.2978832,
+  "speedup": 3.546406439051059,
+  "liboqs_decaps_us": 10.497200000000001,
+  "liboqs_encaps_us": 9.607899999999999
+ },
+ {
+  "scheme": "ML-KEM-768",
+  "decaps_cca_us": 3653.5918500000002,
+  "decaps_cpa_us": 926.6158336,
+  "speedup": 3.9429413112933887,
+  "liboqs_decaps_us": 15.8569332,
+  "liboqs_encaps_us": 14.2761836
+ },
+ {
+  "scheme": "ML-KEM-1024",
+  "decaps_cca_us": 5072.018150000001,
+  "decaps_cpa_us": 1155.6395,
+  "speedup": 4.388927645688816,
+  "liboqs_decaps_us": 23.6073664,
+  "liboqs_encaps_us": 20.99305
+ }
+]

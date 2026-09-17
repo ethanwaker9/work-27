@@ -1,0 +1,5 @@
+cryptography>=42.0
+liboqs-python>=0.10
+kyber-py>=1.0
+matplotlib>=3.7
+numpy>=1.24
