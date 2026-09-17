@@ -1,6 +1,6 @@
 # Post-Quantum Cryptographic Analysis of IKEv2
 
-This repository contains our measurement code for
+This repository contains our **i)** implementation code, **ii)** measurement, and **iii)** EasyCrypt proofs  for
 our research on *Post-Quantum Cryptographic Analysis of IKEv2*. It implements the IKEv2
 key schedule of RFC 7296 and RFC 9370, the single pass key schedule `SPKS`
 introduced in our work, thirteen key derivation and key encapsulation
